@@ -26,18 +26,16 @@ OpenCV for video processing<br>
 TensorFlow and Keras for model training<br>
 NumPy for data handling<br>
 
-__Installation__
-
-
-
-__Run the application__:<br>
-
+__Installation__ <br>
+1.Clone the repository<br>
+2.Install the required dependencies<br>
+3.Run the application<br>
 
 __Usage__ <br>
 Connect a video source (e.g., CCTV footage).<br>
 Run the system to begin face detection and behavioral analysis.<br>
 Real-time notifications will be generated for any detected violent behavior.<br>
-Future Enhancements<br>
+__Future Enhancements__ <br>
 Improved model performance in diverse lighting and crowd density conditions.<br>
 Expansion to include object detection for broader safety monitoring.<br>
 
